@@ -1,3 +1,5 @@
 <svg class="background">
+<arc  id="arc" x="61" y="12" width="226" height="226" fill="greenyellow"
+     arc-width="10" start-angle="0" sweep-angle="360" />
   <text id="myLabel" />
 </svg>
