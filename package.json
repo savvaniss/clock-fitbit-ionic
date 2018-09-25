@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "3be06651-c808-4619-b9e4-55d220162d62",
+    "appType": "clockface",
+    "appDisplayName": "clock-fitbit-ionic",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "clock-fitbit-ionic"
+      }
+    }
+  }
+}
